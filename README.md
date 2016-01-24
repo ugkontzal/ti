@@ -20,10 +20,10 @@ w pliku [laboratoria.md](laboratoria.md).
 
 1\. Zapoznać się z notacjami:
 
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) –
-  Github-flavored
+* [Markdown](https://daringfireball.net/projects/markdown/).
+  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 * [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
-  toolchain for converting AsciiDoc to HTML5, DocBook & more
+  toolchain for converting AsciiDoc to HTML5, DocBook & more.
 
 Korzystając z tych notacji przygotować trzy strony:
 
