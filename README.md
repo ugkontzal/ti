@@ -28,10 +28,11 @@ w pliku [laboratoria.md](laboratoria.md).
 Korzystając z tych notacji przygotować trzy strony:
 
 1. _Tabelka_.
-  Przeczytać http://www.methods.co.nz/asciidoc/newtables.html[AsciiDoc New tables].
-  Przygotować stronę z 5 różnymi interesującymi tabelkami.
-2. _GeoJSON_.
-  Na jednej stronie wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/).
+  Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
+  Przygotować stronę z 5 różnymi i interesującymi tabelkami.
+2. [_GeoJSON_](http://geojson.org/).
+  [Simply edit GeoJSON map data](http://geojson.io).
+  Na jednej ze stron wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/).
 3. _Matematyka_.
   Matematykę na stronach wpisać w notacji
   [MathJax](http://docs.mathjax.org/en/latest/index.html).
