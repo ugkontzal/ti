@@ -6,8 +6,8 @@
 
 Terminy rozliczenia się z projektów:
 
-* ***zaliczenie***: **ISODate("2016-03-28T10:00:00.000Z")**
-* ***egzamin***: **ISODate("2015-05-12T12:00:00.000Z")**
+* ***zaliczenie***: **ISODate("2016-04-01T12:00:00.000Z")**
+* ***egzamin***: **ISODate("2015-06-01T12:00:00.000Z")**
 
 Projekty tworzymy w repozytoriach Git.
 W repozytoriach nie powinno być śmieci, np. plików backup edytora itp.
@@ -92,7 +92,8 @@ Użyteczne linki:
 - Nicholas C. Zakas.
   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 - John Resig.
-  [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+  - [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+  - [Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 - [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) –
   Mozilla Developer Network (MDN)
 
