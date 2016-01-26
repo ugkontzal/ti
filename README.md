@@ -105,6 +105,7 @@ ES6+
   [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
 - Aidan Feldman.
   [Advanced JavaScript](http://advanced-js.github.io/deck/)
+- David Leonard. [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 
 ## CSS
