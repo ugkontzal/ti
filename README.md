@@ -62,13 +62,13 @@ na [Firebase](https://www.firebase.com).
 
 ### Egzamin
 
-1\. Przygotować prostą aplikację WWW korzystając
-z frameworka [Meteor](https://www.meteor.com/).
-
-2\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
-szczegółowo opisujący jak wdrożyć [przykładową aplikację Meteor](https://www.meteor.com/install)
-na zewnętrznym serwerze, np. na
-[Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html).
+Przygotować prostą aplikację WWW korzystając
+z frameworka [Meteor](https://www.meteor.com/). Aplikację
+wdrożyć (ang. _deploy_) na zewnętrznym serwerze. +
+Zamiast frameworka Meteor można użyć frameworka
+[React](https://facebook.github.io/react/index.html) –
+[Tutorial](https://facebook.github.io/react/docs/tutorial.html),
+[React for Beginners](https://reactforbeginners.com/).
 
 Użyteczne linki:
 
@@ -78,6 +78,8 @@ Użyteczne linki:
   a Complete Beginner’s Guide to the Meteor JavaScript Framework
 - [Discover Meteor](http://book.discovermeteor.com/)
   ([polskie tłumaczenie](http://pl.discovermeteor.com/))
+- [Creating your first app in React+Meteor](https://www.meteor.com/tutorials/react/creating-an-app)
+
 
 
 ## JavaScript 2016 → ∞
