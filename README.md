@@ -67,6 +67,7 @@ z frameworka [Meteor](https://www.meteor.com/). Aplikację
 wdrożyć (ang. _deploy_) na zewnętrznym serwerze. +
 Zamiast frameworka Meteor można użyć frameworka
 [React](https://facebook.github.io/react/index.html) –
+[Getting Started](https://facebook.github.io/react/docs/getting-started.html),
 [Tutorial](https://facebook.github.io/react/docs/tutorial.html),
 [React for Beginners](https://reactforbeginners.com/).
 
