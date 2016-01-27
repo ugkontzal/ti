@@ -40,10 +40,10 @@ Korzystając z tych notacji przygotować trzy strony:
 
 Gotowe strony wdrożyć na [Firebase](https://www.firebase.com).
 
-2\. [GitHub Pages](https://pages.github.com).
+2\. [GitHub Pages](https://pages.github.com) | [Firebase](https://www.firebase.com).
 
-Przygotować *user* lub *project site*,
-korzystając z jednego z frameworków wymienionych poniżej:
+W stronach przygotowanych w pkt. 1. (lub nowych) wykorzystać
+jeden z frameworków wymienionych poniżej:
 
 * [Material Design Lite](http://www.getmdl.io/).
   Material Design Lite lets you add a Material Design look and feel to your
@@ -64,7 +64,8 @@ na [Firebase](https://www.firebase.com).
 
 Przygotować prostą aplikację WWW korzystając
 z frameworka [Meteor](https://www.meteor.com/). Aplikację
-wdrożyć (ang. _deploy_) na zewnętrznym serwerze. +
+wdrożyć (ang. _deploy_) na zewnętrznym serwerze.
+
 Zamiast frameworka Meteor można użyć frameworka
 [React](https://facebook.github.io/react/index.html) –
 [Getting Started](https://facebook.github.io/react/docs/getting-started.html),
@@ -80,7 +81,6 @@ Użyteczne linki:
 - [Discover Meteor](http://book.discovermeteor.com/)
   ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 - [Creating your first app in React+Meteor](https://www.meteor.com/tutorials/react/creating-an-app)
-
 
 
 ## JavaScript 2016 → ∞
