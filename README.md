@@ -109,6 +109,7 @@ ES6+
 - Aidan Feldman.
   [Advanced JavaScript](http://advanced-js.github.io/deck/)
 - David Leonard. [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+– [Minimalist examples of ES6 functionalities](https://github.com/hemanth/paws-on-es6)
 
 
 ## CSS
