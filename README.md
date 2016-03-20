@@ -40,7 +40,8 @@ Korzystając z tych notacji przygotować trzy strony:
   Przygotować stronę z 5 różnymi i interesującymi tabelkami.
 2. [_GeoJSON_](http://geojson.org/).
   [Simply edit GeoJSON map data](http://geojson.io).
-  Na jednej ze stron wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/).
+  Na jednej ze stron wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
+  lub [Google Web Components](https://elements.polymer-project.org/browse?package=google-web-components).
 3. _Matematyka_.
   Matematykę na stronach wpisać w notacji
   [MathJax](http://docs.mathjax.org/en/latest/index.html).
