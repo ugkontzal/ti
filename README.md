@@ -13,7 +13,15 @@ Projekty tworzymy w repozytoriach Git.
 W repozytoriach nie powinno być śmieci, np. plików backup edytora itp.
 
 Pull requests z linkami do projektów na zaliczenie i egzamin należy wpisać
-w pliku [laboratoria.md](laboratoria.md).
+w pliku [laboratoria.md](laboratoria.md), wg schematu:
+
+1. [Włodzimierz Bzyl](https://github.com/h5c3j/ti-foundation6). [Tatry](https://h5c3j.firebaseapp.com/).
+
+czyli:
+
+```
+1. [Imię Nazwisko](link do repo z kodem). [Jakaś nazwa](link do wdrożonej strony).
+```
 
 
 ### Zaliczenie
