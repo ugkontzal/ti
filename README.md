@@ -10,12 +10,12 @@ Terminy rozliczenia się z projektów:
 * ***egzamin***: **ISODate("2015-06-01T12:00:00.000Z")**
 
 Projekty tworzymy w repozytoriach Git.
-W repozytoriach nie powinno być śmieci, np. plików backup edytora itp.
 
-Pull requests z linkami do projektów na zaliczenie i egzamin należy wpisać
-w pliku [laboratoria.md](laboratoria.md), wg schematu:
+1. W repozytoriach nie powinno być śmieci, np. plików backup edytora itp.
+1. Pull requests z linkami do projektów na zaliczenie i egzamin należy wpisać
+   w pliku [laboratoria.md](laboratoria.md), wg schematu:
 
-1. [Włodzimierz Bzyl](https://github.com/h5c3j/ti-foundation6). [Tatry](https://h5c3j.firebaseapp.com/).
+1. [Włodzimierz Bzyl](https://github.com/h5c3j/ti-foundation6). [Tatry, wiosna 2015](https://h5c3j.firebaseapp.com/).
 
 czyli:
 
