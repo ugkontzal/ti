@@ -7,7 +7,7 @@
 Terminy rozliczenia się z projektów:
 
 * ***zaliczenie***: **ISODate("2016-04-01T12:00:00.000Z")**
-* ***egzamin***: **ISODate("2015-06-01T12:00:00.000Z")**
+* ***egzamin***: **ISODate("2016-05-21T12:00:00.000Z")**
 
 Projekty tworzymy w repozytoriach Git.
 
