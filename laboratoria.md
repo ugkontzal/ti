@@ -9,7 +9,7 @@ jak przygotować _pull requests_ etc.
 1. Bańkowski Jacek
 1. Braun Damian
 1. Ciepliński Dominik
-1. Dawidowski Marcin
+1. [Dawidowski Marcin](https://github.com/mdawidowski/Techniki-Internetowe). [Strona](https://f32d12.firebaseapp.com/)
 1. Dąbrowski Krzysztof
 1. Dziemiński Grzegorz
 1. Ignaciuk Jakub
