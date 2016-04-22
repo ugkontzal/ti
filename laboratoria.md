@@ -18,7 +18,7 @@ jak przygotować _pull requests_ etc.
 1. Kozyra Damian
 1. Marzec Maciej
 1. Mrotek Remigiusz
-1. [Pek Kamil](https://github.com/kamilpek/techniki-internetowe.git); [Firebase](https://161050ti.firebaseapp.com/)
+1. [Pek Kamil](https://github.com/kamilpek/techniki-internetowe.git). [Firebase](https://161050ti.firebaseapp.com/)
 1. Pienczyn Dominika
 1. Podlawski Adrian
 1. [Sochaj Bartosz](https://github.com/bs-ug/www-ti.git). [Strona moja osobista](https://www-ti.firebaseapp.com/)
