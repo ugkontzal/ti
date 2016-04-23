@@ -13,7 +13,7 @@ jak przygotować _pull requests_ etc.
 1. Dąbrowski Krzysztof
 1. Dziemiński Grzegorz
 1. Ignaciuk Jakub
-1. Kleina Mateusz
+1. [Kleina Mateusz](https://github.com/moskal91/ti-zaliczenie). [Firebase](https://zaliczenie-mkleina.firebaseapp.com/)
 1. Klimaszewski Karol
 1. Kozyra Damian
 1. Marzec Maciej
