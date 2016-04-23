@@ -5,7 +5,7 @@ książki **Pro Git book** autorów Scotta Chacon i Bena Straub
 jest opisane jak założyć i skonfigurować konto na GitHub,
 jak przygotować _pull requests_ etc.
 
-1. Bachanek Bartosz
+1. [Bachanek Bartosz](https://github.com/bbachanek/Technologie-internetowe). [Kosmos](https://shining-inferno-3386.firebaseapp.com/)
 1. Bańkowski Jacek
 1. Braun Damian
 1. Ciepliński Dominik
