@@ -4,25 +4,14 @@
 >
 > — William Feather
 
-Terminy rozliczenia się z projektów:
+Ostateczny termin rozliczenia się z projektu na egzamin
+**ISODate("2016-06-03T08:00:00.000Z")**.
+Do tego terminu należy wykonać pull request z linkami do repozytorium
+z kodem oraz jeśli wdrożono aplikację z linkiem do niej.
+Te rzeczy należy wpisać w pliku [laboratoria.md](laboratoria.md).
+Przykładowo:
 
-* ***zaliczenie***: **ISODate("2016-04-01T12:00:00.000Z")**
-* ***egzamin***: **ISODate("2016-05-21T12:00:00.000Z")**
-
-Projekty tworzymy w repozytoriach Git.
-
-1. W repozytoriach nie powinno być śmieci, np. plików backup edytora itp.
-1. Pull requests z linkami do projektów na zaliczenie i egzamin należy wpisać
-   w pliku [laboratoria.md](laboratoria.md), wg schematu:
-
-
-> 1. [Włodzimierz Bzyl](https://github.com/h5c3j/ti-foundation6). [Tatry, wiosna 2015](https://h5c3j.firebaseapp.com/).
-
-czyli:
-
-```
-1. [Imię Nazwisko](link do repo z kodem). [Jakaś nazwa](link do wdrożonej strony).
-```
+1. [Carnegie Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
 
 
 ### Zaliczenie
