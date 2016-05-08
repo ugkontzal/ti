@@ -8,8 +8,8 @@ Ostateczny termin rozliczenia się z projektu na egzamin
 **ISODate("2016-06-03T08:00:00.000Z")**.
 Do tego terminu należy wykonać pull request z linkami do repozytorium
 z kodem oraz jeśli wdrożono aplikację z linkiem do niej.
-Te rzeczy należy wpisać w pliku [laboratoria.md](laboratoria.md).
-Przykładowo:
+Te rzeczy należy wpisać w pliku [laboratoria.md](laboratoria.md)
+według poniższego schematu:
 
 1. [Carnegie Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
 
