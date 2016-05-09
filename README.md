@@ -123,6 +123,9 @@ Small frameworks:
 
 ### Różne rzeczy
 
+- [Accelerated Mobile Pages Project](https://www.ampproject.org) – an open source initiative 
+  that embodies the vision that publishers can create mobile optimized content once and 
+  have it *load instantly everywhere*
 - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
   [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
 - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
