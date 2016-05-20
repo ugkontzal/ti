@@ -10,6 +10,7 @@ jak przygotować _pull requests_ etc.
 
 1. Bachanek Bartosz
 1. Bańkowski Jacek
+1. Bartel Krzysztof
 1. Braun Damian
 1. Ciepliński Dominik
 1. Dawidowski Marcin
@@ -32,6 +33,7 @@ jak przygotować _pull requests_ etc.
 
 1. [Bachanek Bartosz](https://github.com/bbachanek/Technologie-internetowe). [Kosmos](https://shining-inferno-3386.firebaseapp.com/)
 1. Bańkowski Jacek
+1. [Bartel Krzysztof](https://github.com/deer667/ti_zaliczenie). [Strona zaliczeniowa](http://krzysztofbartel.pl/test/ti_zal/)
 1. Braun Damian
 1. Ciepliński Dominik
 1. [Dawidowski Marcin](https://github.com/mdawidowski/Techniki-Internetowe). [Strona](https://f32d12.firebaseapp.com/)
