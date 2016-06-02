@@ -25,7 +25,7 @@ jak przygotować _pull requests_ etc.
 1. Pek Kamil
 1. Pienczyn Dominika
 1. Podlawski Adrian
-1. Sochaj Bartosz
+1. [Sochaj Bartosz](https://github.com/bs-ug/justwrite.git). [Just write!](http://46.101.138.139/)
 1. Sołtys Aleksandra
 
 
