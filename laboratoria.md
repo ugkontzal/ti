@@ -42,7 +42,7 @@ jak przygotować _pull requests_ etc.
 1. Ignaciuk Jakub
 1. [Kleina Mateusz](https://github.com/moskal91/ti-zaliczenie). [Firebase](https://zaliczenie-mkleina.firebaseapp.com/)
 1. [Klimaszewski Karol](https://github.com/KKlimaszewski1/techniki). [Strona na zaliczenie](https://kklimaszewski.firebaseapp.com/index.html)
-1. Kozyra Damian
+1. [Kozyra Damian](https://github.com/dkozyra/zaliczenie). [Firebase](https://project-89014938623722539.firebaseapp.com/)
 1. Marzec Maciej
 1. Mrotek Remigiusz
 1. [Pek Kamil](https://github.com/kamilpek/techniki-internetowe.git). [Firebase](https://161050ti.firebaseapp.com/)
