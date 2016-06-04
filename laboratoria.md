@@ -13,7 +13,7 @@ jak przygotować _pull requests_ etc.
 1. Bartel Krzysztof
 1. Braun Damian
 1. Ciepliński Dominik
-1. Dawidowski Marcin
+1. [Dawidowski Marcin](https://github.com/mdawidowski/Meteor). [Zgadula](http://zgadula-188905.nitrousapp.com/)
 1. Dąbrowski Krzysztof
 1. Dziemiński Grzegorz
 1. Ignaciuk Jakub
