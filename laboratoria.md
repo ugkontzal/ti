@@ -8,7 +8,7 @@ jak przygotować _pull requests_ etc.
 
 ## Projekty na egzamin, 5.06.2016, g. 8:30, aula 1
 
-1. Bachanek Bartosz
+1. [Bachanek Bartosz] (https://github.com/bbachanek/shout-box). [Shout-box](http://10.10.4.69:3000/)
 1. Bańkowski Jacek
 1. Bartel Krzysztof
 1. Braun Damian
