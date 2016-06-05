@@ -10,7 +10,7 @@ jak przygotować _pull requests_ etc.
 
 1. [Bachanek Bartosz] (https://github.com/bbachanek/shout-box). [Shout-box](http://10.10.4.69:3000/)
 1. Bańkowski Jacek
-1. [Bartel Krzysztof] (https://github.com/deer667/ti_egzamin). 
+1. [Bartel Krzysztof](https://github.com/deer667/ti_egzamin). 
 1. Braun Damian
 1. Ciepliński Dominik
 1. [Dawidowski Marcin](https://github.com/mdawidowski/Meteor). [Zgadula](http://zgadula-188905.nitrousapp.com/)
