@@ -38,7 +38,7 @@ jak przygotować _pull requests_ etc.
 1. Ciepliński Dominik
 1. [Dawidowski Marcin](https://github.com/mdawidowski/Techniki-Internetowe). [Strona](https://f32d12.firebaseapp.com/)
 1. Dąbrowski Krzysztof
-1. Dziemiński Grzegorz
+1. [Dziemiński Grzegorz](https://github.com/Pisarz/ti_projekt). [Firebase](https://technologie-internetowe.firebaseapp.com/)
 1. Ignaciuk Jakub
 1. [Kleina Mateusz](https://github.com/moskal91/ti-zaliczenie). [Firebase](https://zaliczenie-mkleina.firebaseapp.com/)
 1. [Klimaszewski Karol](https://github.com/KKlimaszewski1/techniki). [Strona na zaliczenie](https://kklimaszewski.firebaseapp.com/index.html)
