@@ -35,7 +35,7 @@ jak przygotować _pull requests_ etc.
 1. [Bańkowski Jacek](https://github.com/jbankowski/techniki_internetowe). [UG](https://project-3815309757077228299.firebaseapp.com)
 1. [Bartel Krzysztof](https://github.com/deer667/ti_zaliczenie). [Strona zaliczeniowa](http://krzysztofbartel.pl/test/ti_zal/)
 1. Braun Damian
-1. Ciepliński Dominik
+1. [Ciepliński Dominik] (https://github.com/Mafferek/public) [Strona Konkursowa UG] (http://gfp.com.pl/dominik)
 1. [Dawidowski Marcin](https://github.com/mdawidowski/Techniki-Internetowe). [Strona](https://f32d12.firebaseapp.com/)
 1. Dąbrowski Krzysztof
 1. [Dziemiński Grzegorz](https://github.com/Pisarz/ti_projekt). [Firebase](https://technologie-internetowe.firebaseapp.com/)
