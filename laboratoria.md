@@ -18,7 +18,7 @@ jak przygotować _pull requests_ etc.
 1. Dziemiński Grzegorz
 1. Ignaciuk Jakub
 1. [Kleina Mateusz](https://github.com/moskal91/ti-meteor-zaliczenie). [Pogodowa szafa](http://violet-stallion-189184.nitrousapp.com)
-1. [Klimaszewski Karol] (https://github.com/KKlimaszewski1/techniki_egzamin) [Ciążowy Organizer] (http://projekt1-205579.nitrousapp.com/)
+1. [Klimaszewski Karol](https://github.com/KKlimaszewski1/techniki_egzamin). [Ciążowy Organizer] (http://projekt1-205579.nitrousapp.com/)
 1. [Kozyra Damian](https://github.com/dkozyra/AngularJS-Weather). [Just Weather](http://178.217.184.137:8099)
 1. Marzec Maciej
 1. Mrotek Remigiusz
