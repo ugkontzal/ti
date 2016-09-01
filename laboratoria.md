@@ -12,7 +12,7 @@ jak przygotować _pull requests_ etc.
 1. Bańkowski Jacek
 1. [Bartel Krzysztof](https://github.com/deer667/ti_egzamin). 
 1. Braun Damian
-1. Ciepliński Dominik
+1. [Ciepliński Dominik](https://github.com/Mafferek/meteor_aplikacja). [Lista zadań firmy](http://lista-domowych-porz-dk-w-209250.nitrousapp.com/)
 1. [Dawidowski Marcin](https://github.com/mdawidowski/Meteor). [Zgadula](http://zgadula-188905.nitrousapp.com/)
 1. Dąbrowski Krzysztof
 1. Dziemiński Grzegorz
