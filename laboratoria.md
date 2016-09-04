@@ -26,7 +26,7 @@ jak przygotować _pull requests_ etc.
 1. [Pienczyn Dominika](https://github.com/dpienczyn/aplikacja_jajo). [Jajko](http://jajo.ugu.pl/)
 1. [Podlawski Adrian](https://github.com/kirin1994/Egzamin). [Czas](http://strong-lightning-189858.nitrousapp.com/)
 1. [Sochaj Bartosz](https://github.com/bs-ug/justwrite.git). [Just write!](http://46.101.138.139/)
-1. Sołtys Aleksandra
+1. [Sołtys Aleksandra](https://github.com/saleksandra/angular2_galeria_zdjec). [Galeria zdjęć](http://galeria-zdjec.ugu.pl/)
 
 
 ## Projekty na zaliczenie
