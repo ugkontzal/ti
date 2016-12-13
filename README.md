@@ -58,6 +58,11 @@ jeden z frameworków wymienionych poniżej:
 Stronę umieścić na [GitHub Pages](https://pages.github.com) lub
 na [Firebase](https://www.firebase.com).
 
+3\. Jedna rzecz, do wyboru, ze strony 
+[30 Day Vanilla JS Coding Challenge](https://javascript30.com).
+
+<!-- [Repo z rozwiązaniami](https://github.com/wesbos/JavaScript30) -->
+
 
 ### Egzamin
 
