@@ -1,4 +1,4 @@
-## Techniki Internetowe, rok akad. 2015/16
+## Techniki Internetowe, rok akad. 2016/17
 
 > *Uważaj na człowieka, którego nie interesują szczegóły.*
 >
@@ -11,7 +11,11 @@ z kodem oraz jeśli wdrożono aplikację z linkiem do niej.
 Te rzeczy należy wpisać w pliku [laboratoria.md](laboratoria.md)
 według poniższego schematu:
 
-1. [Carnegie Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
+1. [Carnegie, Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
+
+Gotowe projekty należy umieścić/wdrożyć na [GitHub Pages](https://pages.github.com), lub
+[Firebase](https://www.firebase.com), lub na innym darmowym serwisie, na przykład
+na jednym z [services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget).
 
 
 ### Zaliczenie
@@ -37,8 +41,6 @@ Korzystając z tych notacji przygotować trzy strony:
   [MathJax](http://docs.mathjax.org/en/latest/index.html).
   Przygotować stronę ze wzorami matematycznymi.
 
-Gotowe strony wdrożyć na [Firebase](https://www.firebase.com).
-
 2\. [GitHub Pages](https://pages.github.com) | [Firebase](https://www.firebase.com).
 
 W stronach przygotowanych w pkt. 1. (lub nowych) wykorzystać
@@ -55,10 +57,7 @@ jeden z frameworków wymienionych poniżej:
   the most popular HTML, CSS, and JS framework for developing
   responsive, mobile first projects on the web
 
-Stronę umieścić na [GitHub Pages](https://pages.github.com) lub
-na [Firebase](https://www.firebase.com).
-
-3\. Jedna rzecz, do wyboru, ze strony 
+3\. Jedna rzecz, do wyboru, ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com).
 
 <!-- [Repo z rozwiązaniami](https://github.com/wesbos/JavaScript30) -->
@@ -128,8 +127,8 @@ Small frameworks:
 
 ### Różne rzeczy
 
-- [Accelerated Mobile Pages Project](https://www.ampproject.org) – an open source initiative 
-  that embodies the vision that publishers can create mobile optimized content once and 
+- [Accelerated Mobile Pages Project](https://www.ampproject.org) – an open source initiative
+  that embodies the vision that publishers can create mobile optimized content once and
   have it *load instantly everywhere*
 - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
   [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
