@@ -41,7 +41,9 @@ Korzystając z tych notacji przygotować trzy strony:
   [MathJax](http://docs.mathjax.org/en/latest/index.html).
   Przygotować stronę ze wzorami matematycznymi.
 
-2\. [GitHub Pages](https://pages.github.com) | [Firebase](https://www.firebase.com).
+2\. [GitHub Pages](https://pages.github.com) | 
+  [About GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/) | 
+  [Firebase](https://www.firebase.com).
 
 W stronach przygotowanych w pkt. 1. (lub nowych) wykorzystać
 jeden z frameworków wymienionych poniżej:
