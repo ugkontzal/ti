@@ -1,4 +1,4 @@
-## Techniki Internetowe, rok akad. 2016/17
+## Techniki Internetowe, 2016/2017
 
 > *Uważaj na człowieka, którego nie interesują szczegóły.*
 >
@@ -8,7 +8,7 @@ Ostateczny termin rozliczenia się z projektu na egzamin
 **ISODate("2016-06-03T08:00:00.000Z")**.
 Do tego terminu należy wykonać pull request z linkami do repozytorium
 z kodem oraz jeśli wdrożono aplikację z linkiem do niej.
-Te rzeczy należy wpisać w pliku [laboratoria.md](laboratoria.md)
+Te rzeczy należy wpisać w pliku [project.md](projects.md)
 według poniższego schematu:
 
 1. [Carnegie, Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
@@ -41,8 +41,8 @@ Korzystając z tych notacji przygotować trzy strony:
   [MathJax](http://docs.mathjax.org/en/latest/index.html).
   Przygotować stronę ze wzorami matematycznymi.
 
-2\. [GitHub Pages](https://pages.github.com) | 
-  [About GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/) | 
+2\. [GitHub Pages](https://pages.github.com) |
+  [About GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/) |
   [Firebase](https://www.firebase.com).
 
 W stronach przygotowanych w pkt. 1. (lub nowych) wykorzystać
