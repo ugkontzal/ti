@@ -48,16 +48,14 @@ Korzystając z tych notacji przygotować trzy strony:
 W stronach przygotowanych w pkt. 1. (lub nowych) wykorzystać
 jeden z frameworków wymienionych poniżej:
 
+* [Bootstrap](http://getbootstrap.com) –
+  the most popular HTML, CSS, and JS framework for developing
+  responsive, mobile first projects on the web.
 * [Material Design Lite](http://www.getmdl.io/).
   Material Design Lite lets you add a Material Design look and feel to your
   websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for
   cross-device use, gracefully degrade in older browsers, and offer an experience
   that is immediately accessible.
-* [Foundation](http://foundation.zurb.com) –
-  the most advanced responsive front-end framework in the world
-* [Bootstrap](http://getbootstrap.com) –
-  the most popular HTML, CSS, and JS framework for developing
-  responsive, mobile first projects on the web
 
 3\. Jedna rzecz, do wyboru, ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com).
