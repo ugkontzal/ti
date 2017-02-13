@@ -2,7 +2,7 @@
 
 Pull request według schematu:
 ```
-1. [Nazwisko, Imię](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji)
+1. [Nazwisko, Imię](link do repo z kodem). [Nazwa aplikacji](link do stron)
 ```
 
 Dodatkowe informacje na temat _pull requests_: Scott Chacon and Ben Straub,
