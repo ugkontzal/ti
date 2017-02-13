@@ -43,7 +43,7 @@ Korzystając z tych notacji przygotować trzy strony:
 
 2\. [GitHub Pages](https://pages.github.com) |
   [About GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/) |
-  [Firebase](https://www.firebase.com).
+  [Firebase](https://firebase.google.com).
 
 W stronach przygotowanych w pkt. 1. (lub nowych) wykorzystać
 jeden z frameworków wymienionych poniżej:
