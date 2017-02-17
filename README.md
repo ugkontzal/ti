@@ -41,7 +41,14 @@ Korzystając z tych notacji przygotować trzy strony:
   [MathJax](http://docs.mathjax.org/en/latest/index.html).
   Przygotować stronę ze wzorami matematycznymi.
 
-2\. [GitHub Pages](https://pages.github.com) |
+4\. Zapoznać się z [Gulp](http://gulpjs.com) –
+  a toolkit for automating painful or time-consuming tasks in your
+  development workflow, so you can stop messing around and build something.
+
+  Zarządzanie stronami z pkt. 1 za pomocą programu _gulp_
+  (szablon [My Gulp 101](https://github.com/h5c3j/my_gulp_101)).
+
+3\. [GitHub Pages](https://pages.github.com) |
   [About GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/) |
   [Firebase](https://firebase.google.com).
 
@@ -57,7 +64,7 @@ jeden z frameworków wymienionych poniżej:
   cross-device use, gracefully degrade in older browsers, and offer an experience
   that is immediately accessible.
 
-3\. Jedna rzecz, do wyboru, ze strony
+4\. Jedna rzecz, do wyboru, ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com).
 
 <!-- [Repo z rozwiązaniami](https://github.com/wesbos/JavaScript30) -->
