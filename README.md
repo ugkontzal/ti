@@ -29,10 +29,10 @@ na przykład na jednym z [services with great free tiers for developers on a bud
 
 Zapoznać się z notacją Markdown:
 
-* [Markdown](https://daringfireball.net/projects/markdown/).
-  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+* [Markdown](https://daringfireball.net/projects/markdown/),
+  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-lub AsciiDoc:
+i/lub AsciiDoc:
 
 * [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
   toolchain for converting AsciiDoc to HTML5, DocBook & more.
@@ -45,7 +45,9 @@ kilka geojsonów i przetestować je na tej stronie:
 
 Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
 
-3\. [deadline 09.04.2017] Responsywne tabele.
+3\. [deadline 09.04.2017]
+
+Responsywne tabele.
 
 <!--
 Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
