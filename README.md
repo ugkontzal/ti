@@ -54,7 +54,9 @@ Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.h
 Przygotować stronę z kilkoma różnymi i interesującymi tabelkami.
 -->
 
-4\. [deadline 22.04.2017] Przygotować stronę ze wzorami matematycznymi.
+4\. [deadline 22.04.2017]
+
+Przygotować stronę ze wzorami matematycznymi.
 
 Matematykę na stronach wpisać w notacji
 [MathJax](http://docs.mathjax.org/en/latest/index.html).
