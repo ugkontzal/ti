@@ -16,14 +16,18 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 2. Bilikiewicz, Semen
 3. Dzięgielewski, Piotr
 4. Gołębiewski, Artur
-5. Gorzkowski, Michał
+5. Gorzkowski, Michał 26.02
 6. Januszek, Wojciech
+6. Kamiński, Mateusz
 7. Labuda, Mateusz
-8. Lejk, Krzysztof
+8. Lejk, Krzysztof 26.02
 9. Lepieszkiewicz, Bartosz
+9. Litkowski, Kamil
+9. Madej, Martin
 10. Nurzyński, Sebastian
 11. Ruciński, Marek
 12. Sazon, Krzysztof
+12. Wymysłowski, Dawid
 13. Zarzycki, Mateusz
 
 
