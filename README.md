@@ -119,7 +119,7 @@ Użyteczne linki:
 -->
 
 
-## JavaScript 2016 → ∞
+## JavaScript 2017 → ∞
 
 [JavaScript in 2015](http://glenmaddern.com/articles/javascript-in-2015)
 ([YouTube](https://www.youtube.com/watch?v=iukBMY4apvI)).
