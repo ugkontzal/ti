@@ -27,16 +27,6 @@ na przykład na jednym z [services with great free tiers for developers on a bud
   Skorzystać z jednej z wtyczek _gulp_, na przykład
   [gulp-server-livereload](https://www.npmjs.com/package/gulp-server-livereload).
 
-Zapoznać się z notacją Markdown:
-
-* [Markdown](https://daringfireball.net/projects/markdown/),
-  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-i/lub AsciiDoc:
-
-* [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
-  toolchain for converting AsciiDoc to HTML5, DocBook & more.
-
 2\. [deadline 22.03.2017]
 
 Przejrzeć dokumentację [_GeoJSON_](http://geojson.org/). Napisać
@@ -48,6 +38,16 @@ Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.
 3\. [deadline 09.04.2017]
 
 Responsywne tabele.
+
+Zapoznać się z notacją Markdown:
+
+* [Markdown](https://daringfireball.net/projects/markdown/),
+  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+i/lub AsciiDoc:
+
+* [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
+  toolchain for converting AsciiDoc to HTML5, DocBook & more.
 
 <!--
 Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
