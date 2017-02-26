@@ -4,51 +4,64 @@
 >
 > — William Feather
 
-Ostateczny termin rozliczenia się z projektu na egzamin
-**ISODate("2016-06-03T08:00:00.000Z")**.
-Do tego terminu należy wykonać pull request z linkami do repozytorium
-z kodem oraz jeśli wdrożono aplikację z linkiem do niej.
-Te rzeczy należy wpisać w pliku [project.md](projects.md)
-według poniższego schematu:
-
-1. [Carnegie, Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
-
-Gotowe projekty należy umieścić/wdrożyć na [GitHub Pages](https://pages.github.com), lub
-[Firebase](https://www.firebase.com), lub na innym darmowym serwisie, na przykład
-na jednym z [services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget).
+Kod z rozwiązaniami zadań / gotowe projekty należy umieścić/wdrożyć
+na [GitHub Pages](https://pages.github.com) lub
+na [Firebase](https://www.firebase.com) albo na innym darmowym serwisie,
+na przykład na jednym z [services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget).
 
 
 ### Zaliczenie
 
-1\. Zapoznać się z notacjami:
+1\. [deadline 05.03.2017]
+
+* Utworzyć repozytorium na rozwiązania zadań. Link do repozytorium oraz
+  link do stron HTML z rozwiązaniami wpisać w pliku [projects.md](projects.md).
+* Zapoznać się z programem [gulp](http://gulpjs.com) ułatwiającym pracę
+  z projektami HTML+CSS+JavaScript.
+* Do kodu [pierwszej strony WWW](http://info.cern.ch/hypertext/WWW/TheProject.html)
+  dodać mapkę okolic CERN. Użyć jednego z komponetów webowych
+  [GoogleWebComponents](https://www.webcomponents.org/author/GoogleWebComponents).
+  Proces dodawania mapki zautomatyzować za pomocą programu _gulp_.
+* Do pliku [gulpfile.js](https://github.com/h5c3j/my_gulp_101/blob/master/gulpfile.js)
+  dodać nowe zadanie (_task_) uruchamiające lokalny serwer www z **livereload**.
+  Skorzystać z jednej z wtyczek _gulp_, na prykład
+  [gulp-server-livereload](https://www.npmjs.com/package/gulp-server-livereload).
+
+Zapoznać się z notacją Markdown:
 
 * [Markdown](https://daringfireball.net/projects/markdown/).
   [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+lub AsciiDoc:
+
 * [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
   toolchain for converting AsciiDoc to HTML5, DocBook & more.
 
-Korzystając z tych notacji przygotować trzy strony:
+2\. [deadline 22.03.2017]
 
-1. _Tabelka_.
-  Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
-  Przygotować stronę z 5 różnymi i interesującymi tabelkami.
-2. [_GeoJSON_](http://geojson.org/).
-  [Simply edit GeoJSON map data](http://geojson.io).
-  Na jednej ze stron wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
-  lub [Google Web Components](https://elements.polymer-project.org/browse?package=google-web-components).
-3. _Matematyka_.
-  Matematykę na stronach wpisać w notacji
-  [MathJax](http://docs.mathjax.org/en/latest/index.html).
-  Przygotować stronę ze wzorami matematycznymi.
+Przejrzeć dokumentację [_GeoJSON_](http://geojson.org/). Napisać
+kilka geojsonów i przetestować je na tej stronie:
+[Simply edit GeoJSON map data](http://geojson.io).
 
-4\. Zapoznać się z [Gulp](http://gulpjs.com) –
-  a toolkit for automating painful or time-consuming tasks in your
-  development workflow, so you can stop messing around and build something.
+Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
 
-  Zarządzanie stronami z pkt. 1 za pomocą programu _gulp_
-  (szablon [My Gulp 101](https://github.com/h5c3j/my_gulp_101)).
+3\. [deadline 09.04.2017] Responsywne tabele.
 
-3\. [GitHub Pages](https://pages.github.com) |
+<!--
+Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
+Przygotować stronę z kilkoma różnymi i interesującymi tabelkami.
+-->
+
+4\. [deadline 22.04.2017] Przygotować stronę ze wzorami matematycznymi.
+
+Matematykę na stronach wpisać w notacji
+[MathJax](http://docs.mathjax.org/en/latest/index.html).
+
+<!--
+
+[Carnegie, Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
+
+5\. [GitHub Pages](https://pages.github.com) |
   [About GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/) |
   [Firebase](https://firebase.google.com).
 
@@ -64,13 +77,17 @@ jeden z frameworków wymienionych poniżej:
   cross-device use, gracefully degrade in older browsers, and offer an experience
   that is immediately accessible.
 
-4\. Jedna rzecz, do wyboru, ze strony
-[30 Day Vanilla JS Coding Challenge](https://javascript30.com).
+-->
 
 <!-- [Repo z rozwiązaniami](https://github.com/wesbos/JavaScript30) -->
 
 
-### Egzamin
+### Egzamin (projekty zespołowe)
+
+Zrealizować kilka projektów ze strony
+[30 Day Vanilla JS Coding Challenge](https://javascript30.com).
+
+<!--
 
 Przygotować prostą aplikację WWW korzystając
 z frameworka [Meteor](https://www.meteor.com/). Aplikację
@@ -91,6 +108,8 @@ Użyteczne linki:
 - [Discover Meteor](http://book.discovermeteor.com/)
   ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 - [Creating your first app in React+Meteor](https://www.meteor.com/tutorials/react/creating-an-app)
+
+-->
 
 
 ## JavaScript 2016 → ∞
