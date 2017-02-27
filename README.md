@@ -104,7 +104,8 @@ Podstawy język JavaScript:
   [polskie tłumaczenia](http://helion.pl/search?szukaj=Simpson)
 
 Zrealizować kilka projektów ze strony
-[30 Day Vanilla JS Coding Challenge](https://javascript30.com).
+[30 Day Vanilla JS Coding Challenge](https://javascript30.com);
+[repo z _starter files_](https://github.com/wesbos/JavaScript30).
 
 <!--
 
