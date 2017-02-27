@@ -24,7 +24,7 @@ na przykład na jednym z [services with great free tiers for developers on a bud
   Proces dodawania mapki zautomatyzować za pomocą programu _gulp_;
   zob. [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github).
 
-* Do pliku [gulpfile.js](https://github.com/h5c3j/my_gulp_101/blob/master/gulpfile.js)
+* Do pliku [Gulpfile.js](https://github.com/h5c3j/my_gulp_101/blob/master/gulpfile.js)
   dodać nowe zadanie (_task_) uruchamiające lokalny serwer www z **livereload**.
   Skorzystać z jednej z wtyczek _gulp_, na przykład
   [gulp-server-livereload](https://www.npmjs.com/package/gulp-server-livereload);
