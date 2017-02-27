@@ -64,6 +64,10 @@ Przygotować stronę ze wzorami matematycznymi.
 Matematykę na stronach wpisać w notacji
 [MathJax](http://docs.mathjax.org/en/latest/index.html).
 
+Przykładowe strony: [RedQueen](http://learning.mpi-sws.org/redqueen/) –
+An Online Algorithm for Smart Broadcasting in Social Networks.
+(W stopce u dołu strony linki do repozytorium z kodem źródłowym strony.)
+
 <!--
 
 [Carnegie, Mellon](https://github.com/brendano/ark-tweet-nlp/). [tChat](http://www.cs.cmu.edu/~ark/TweetNLP/).
