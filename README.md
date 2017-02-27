@@ -95,6 +95,14 @@ jeden z frameworków wymienionych poniżej:
 
 ### Egzamin (projekty zespołowe)
 
+Podstawy język JavaScript:
+
+- Marijn Haverbeke.
+  [Eloquent JavaScript](http://eloquentjavascript.net/)
+- Kyle Simpson.
+  [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS);
+  [polskie tłumaczenia](http://helion.pl/search?szukaj=Simpson)
+
 Zrealizować kilka projektów ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com).
 
@@ -128,10 +136,6 @@ Użyteczne linki:
 [JavaScript in 2015](http://glenmaddern.com/articles/javascript-in-2015)
 ([YouTube](https://www.youtube.com/watch?v=iukBMY4apvI)).
 
-- Marijn Haverbeke.
-  [Eloquent JavaScript](http://eloquentjavascript.net/)
-- Kyle Simpson.
-  [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) – book series
 - Nicholas C. Zakas.
   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 - John Resig.
