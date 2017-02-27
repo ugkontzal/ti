@@ -27,7 +27,10 @@ na przykład na jednym z [services with great free tiers for developers on a bud
 * Do pliku [gulpfile.js](https://github.com/h5c3j/my_gulp_101/blob/master/gulpfile.js)
   dodać nowe zadanie (_task_) uruchamiające lokalny serwer www z **livereload**.
   Skorzystać z jednej z wtyczek _gulp_, na przykład
-  [gulp-server-livereload](https://www.npmjs.com/package/gulp-server-livereload).
+  [gulp-server-livereload](https://www.npmjs.com/package/gulp-server-livereload);
+  zob. [Mark Goodyear](https://markgoodyear.com/),
+  [Getting started with gulp](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
+  i [Using ES6 with gulp](https://markgoodyear.com/2015/06/using-es6-with-gulp/).
 
 2\. [deadline 22.03.2017]
 
