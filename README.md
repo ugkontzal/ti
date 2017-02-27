@@ -21,8 +21,8 @@ na przykład na jednym z [services with great free tiers for developers on a bud
 * Do kodu [pierwszej strony WWW](http://info.cern.ch/hypertext/WWW/TheProject.html)
   dodać mapkę okolic CERN. Użyć jednego z komponetów webowych
   [GoogleWebComponents](https://www.webcomponents.org/author/GoogleWebComponents).
-  Proces dodawania mapki zautomatyzować za pomocą programu _gulp_.
-  Przecztać [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github).
+  Proces dodawania mapki zautomatyzować za pomocą programu _gulp_;
+  zob. [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github).
 
 * Do pliku [gulpfile.js](https://github.com/h5c3j/my_gulp_101/blob/master/gulpfile.js)
   dodać nowe zadanie (_task_) uruchamiające lokalny serwer www z **livereload**.
