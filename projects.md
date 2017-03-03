@@ -12,7 +12,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 <!-- (\d+),(.+),(.+),\d+  //  $1. $2, $3 -->
 
-1. Bartos, Michał
+1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html)
 2. Bilikiewicz, Semen
 3. Dzięgielewski, Piotr
 4. Gołębiewski, Artur
@@ -26,7 +26,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 9. Madej, Martin
 10. Nurzyński, Sebastian
 11. Ruciński, Marek
-12. Sazon, Krzysztof
+12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/)
 12. Wymysłowski, Dawid
 13. Zarzycki, Mateusz
 
