@@ -17,7 +17,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 3. Dzięgielewski, Piotr
 4. Gołębiewski, Artur
 5. Gorzkowski, Michał 26.02
-6. Januszek, Wojciech
+6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [mapa](https://wojsamjan.github.io/myGulp501/)
 6. Kamiński, Mateusz
 7. Labuda, Mateusz
 8. Lejk, Krzysztof 26.02
