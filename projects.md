@@ -19,7 +19,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 5. Gorzkowski, Michał 26.02
 6. Januszek, Wojciech
 6. Kamiński, Mateusz
-7. Labuda, Mateusz
+7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Map](https://mlabuda2.github.io/pierwszastrona/)
 8. Lejk, Krzysztof 26.02
 9. Lepieszkiewicz, Bartosz
 9. Litkowski, Kamil
