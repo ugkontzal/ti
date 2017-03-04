@@ -22,7 +22,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Mapka](https://mlabuda2.github.io/pierwszastrona/)
 8. Lejk, Krzysztof 26.02
 9. Lepieszkiewicz, Bartosz
-9. Litkowski, Kamil
+9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html)
 9. Madej, Martin
 10. Nurzyński, Sebastian
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/)
