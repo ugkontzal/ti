@@ -14,7 +14,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html)
 2. Bilikiewicz, Semen
-3. Dzięgielewski, Piotr
+3. [Dzięgielewski, Piotr](https://github.com/dexiefy/TiZad1) [Mapa](https://dexiefy.github.io/TiZad1/)
 4. Gołębiewski, Artur
 5. Gorzkowski, Michał 26.02
 6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/)
