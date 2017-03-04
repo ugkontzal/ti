@@ -17,15 +17,15 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 3. Dzięgielewski, Piotr
 4. Gołębiewski, Artur
 5. Gorzkowski, Michał 26.02
-6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [mapa](https://wojsamjan.github.io/myGulp501/)
+6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/)
 6. Kamiński, Mateusz
-7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Map](https://mlabuda2.github.io/pierwszastrona/)
+7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Mapka](https://mlabuda2.github.io/pierwszastrona/)
 8. Lejk, Krzysztof 26.02
 9. Lepieszkiewicz, Bartosz
 9. Litkowski, Kamil
 9. Madej, Martin
 10. Nurzyński, Sebastian
-11. Ruciński, Marek
+11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/)
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/)
 12. Wymysłowski, Dawid
 13. Zarzycki, Mateusz
