@@ -18,7 +18,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia) [Mapa](http://swiatlamiasta.github.io/studia/)
 5. Gorzkowski, Michał 26.02
 6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/)
-6. Kamiński, Mateusz
+6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/docs/)
 7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Mapka](https://mlabuda2.github.io/pierwszastrona/)
 8. Lejk, Krzysztof 26.02
 9. Lepieszkiewicz, Bartosz
