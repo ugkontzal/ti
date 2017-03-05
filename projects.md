@@ -24,7 +24,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 9. Lepieszkiewicz, Bartosz
 9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html)
 9. Madej, Martin
-10. Nurzyński, Sebastian
+10. [Nurzyński, Sebastian](https://github.com/ugkontzal/ugkontzal.github.io). [Mapa](https://ugkontzal.github.io/)
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/)
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/)
 12. Wymysłowski, Dawid
