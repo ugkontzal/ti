@@ -37,8 +37,11 @@ Pull request według schematu:
 ```
 1. [Nazwa zespołu](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji)
 ```
-1. [Nazwa zeszpołu](https://github.com/ksazon/speechRecognition). [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
-2. [Nazwa zeszpołu](https://github.com/ksazon/videoPlayer). [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
-3. [wojsamjan dexiefy](https://github.com/wojsamjan/cssJS_Clock). [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
-4. [wojsamjan dexiefy](https://github.com/wojsamjan/flexPanelsImageGallery). [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
-5. [wojsamjan dexiefy](https://github.com/wojsamjan/slideInOnScroll). [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
+
+1. [Zeszpołu](https://github.com/ksazon).
+  - [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
+  - [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
+1. [Wojsamjan Dexiefy](https://github.com/wojsamjan):
+  - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
+  - [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
+  - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
