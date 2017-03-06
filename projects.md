@@ -37,5 +37,8 @@ Pull request według schematu:
 ```
 1. [Nazwa zespołu](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji)
 ```
+1. [Nazwa zeszpołu](https://github.com/ksazon/speechRecognition). [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
+2. [Nazwa zeszpołu](https://github.com/ksazon/videoPlayer). [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
+
 
 **Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
