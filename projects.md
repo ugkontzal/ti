@@ -36,7 +36,9 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 Pull request według schematu:
 
 ```
-1. [Nazwa zespołu](link do repozytorium z plikiem README). [Nazwa Coding Challenge](link do strony z rozwiązaniem)
+1. [Nazwa zespołu](repo z plikiem README)
+  - [Coding Challenge 1](link do strony z rozwiązaniem)
+  - [Coding Challenge 2](link do strony z rozwiązaniem)
 ```
 
 1. [Zeszpołu](https://github.com/ksazon)
