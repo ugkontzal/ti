@@ -20,6 +20,10 @@ i AsciiDoc:
 * [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
   toolchain for converting AsciiDoc to HTML5, DocBook & more.
 
+<!--
+  Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
+-->
+
 W repozytoriach z rozwiązaniami zadań, w pliku _README.md_ (Markdown)
 lub _README.adoc_ (AsciiDoctor) krótko opisać rozwiązanie każdego zadania.
 
@@ -56,13 +60,31 @@ Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.
 
 3\. [deadline 09.04.2017]
 
-Responsywne tabele.
+* Przeczytać artykuł Matthew Ström’a
+[Design Better Data Tables](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c).
+W swoich tabelkach stosować się do „3½ simple rules” z tego artykułu.
+* Zapoznać się z elementami, atrybutem i formatem:
+  - [figure](http://caniuse.com/#search=figure)
+  - [picture](http://caniuse.com/#search=picture)
+  - [srcset](http://caniuse.com/#search=srcset)
+  - [webfont](http://caniuse.com/#search=webfont)
 
+W HTML tabelę budujemy z następujących elementów: *table*, *tr*, *td*,
+*caption*, *thead*, *tbody*, *tfoot*, *colgroup*, *col* (9 znaczników)
+oraz z dwóch atrybutów *colspan* i *rowspan* (2 atrybuty).
 
-<!--
-Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
-Przygotować stronę z kilkoma różnymi i interesującymi tabelkami.
--->
+Responsywne tabele ([Responsive Tables](https://codepen.io/collection/AdGVYP/);
+niedziałający przykład z JSON data ;) i
+obrazki ([Responsive Images Community Group](https://responsiveimages.org);
+[<picture> Element Sample](https://googlechrome.github.io/samples/picture-element/)).
+
+1. Przygotować stronę z kilkoma różnymi i interesującymi tabelkami.
+   Następnie dodać responsywność do tabelek.
+2. Przygotować stronę z kilkoma różnymi i interesującymi responsywnymi obrazkami.
+
+Strona powinna korzystać z lokalnych webfont. Na stronach należy uzyć
+wszystkich wymienionych powyżej elementów i atrybutów.
+
 
 4\. [deadline 22.04.2017]
 
