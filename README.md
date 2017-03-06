@@ -9,9 +9,6 @@ na [GitHub Pages](https://pages.github.com) lub
 na [Firebase](https://www.firebase.com) albo na innym darmowym serwisie,
 na przykład na jednym z [services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget).
 
-
-### Zaliczenie
-
 Zapoznać się z notacjami Markdown:
 
 * [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/),
@@ -26,6 +23,8 @@ i AsciiDoc:
 W repozytoriach z rozwiązaniami zadań, w pliku _README.md_ (Markdown)
 lub _README.adoc_ (AsciiDoctor) krótko opisać rozwiązanie każdego zadania.
 
+
+### Zaliczenie
 
 1\. [deadline 05.03.2017]
 
