@@ -31,7 +31,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe).
 
 
-## Projekty zespołowe (egzamin)
+## Projekty zespołowe (egzamin = średnia z coding challenge i zaliczenia)
 
 Pull request według schematu:
 
