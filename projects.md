@@ -41,4 +41,8 @@ Pull request według schematu:
 2. [Nazwa zeszpołu](https://github.com/ksazon/videoPlayer). [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
 
 
+
+3. [wojsamjan dexiefy](https://github.com/wojsamjan/cssJS_Clock). [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
+4. [wojsamjan dexiefy](https://github.com/wojsamjan/flexPanelsImageGallery). [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
+5. [wojsamjan dexiefy](https://github.com/wojsamjan/slideInOnScroll). [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
 **Uwaga:** W pliku _README.md_ w repo należy wpisać wszystkich autorów aplikacji.
