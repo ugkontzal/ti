@@ -92,13 +92,12 @@ wszystkich wymienionych powyżej elementów i atrybutów.
 4\. [deadline 22.04.2017]
 
 Przygotować stronę ze wzorami matematycznymi.
-
 Matematykę na stronach wpisać w notacji
 [MathJax](http://docs.mathjax.org/en/latest/index.html).
 
-Przykładowe strony: [RedQueen](http://learning.mpi-sws.org/redqueen/) –
-An Online Algorithm for Smart Broadcasting in Social Networks.
-(W stopce u dołu strony linki do repozytorium z kodem źródłowym strony.)
+Przykładowe repozytorium z GitHub Pages + MathJax –
+[RedQueen: An Online Algorithm for Smart Broadcasting in Social Networks](http://learning.mpi-sws.org/redqueen/).
+W stopce u dołu strony linki do repozytorium z kodem źródłowym.
 
 <!--
 
