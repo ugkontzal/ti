@@ -70,8 +70,7 @@ W swoich tabelkach stosować się do „3½ simple rules” z tego artykułu.
   z książki M. Butterick’a [Practical Typography](http://practicaltypography.com);
   zob. też [Google Fonts](https://fonts.google.com/?subset=latin-ext).
 * Zapoznać się z elementami, atrybutem i formatem:
-  - [figure](http://caniuse.com/#search=figure)
-  - [picture](http://caniuse.com/#search=picture)
+  - [figure](http://caniuse.com/#search=figure), [picture](http://caniuse.com/#search=picture)
   - [srcset](http://caniuse.com/#search=srcset)
   - [webfont](http://caniuse.com/#search=webfont)
 
