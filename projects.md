@@ -34,8 +34,9 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 ## Projekty zespołowe (egzamin)
 
 Pull request według schematu:
+
 ```
-1. [Nazwa zespołu](link do repo z kodem applikacji). [Nazwa aplikacji](link do wdrożonej aplikacji)
+1. [Nazwa zespołu](link do repozytorium z plikiem README). [Nazwa Coding Challenge](link do strony z rozwiązaniem)
 ```
 
 1. [Zeszpołu](https://github.com/ksazon)
