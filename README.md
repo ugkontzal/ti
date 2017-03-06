@@ -83,7 +83,8 @@ obrazki ([Responsive Images Community Group](https://responsiveimages.org);
 
 1. Przygotować stronę z kilkoma różnymi i interesującymi tabelkami.
    Następnie dodać responsywność do tabelek.
-2. Przygotować stronę z kilkoma różnymi i interesującymi responsywnymi obrazkami.
+2. Przygotować stronę z kilkoma różnymi i interesującymi responsywnymi obrazkami
+  ([:japanese_ogre:](http://satyr.io) – make prototyping easy with dummy image generator).
 
 Strona powinna korzystać z lokalnych webfont. Na stronach należy uzyć
 wszystkich wymienionych powyżej elementów i atrybutów.
