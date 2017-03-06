@@ -63,9 +63,9 @@ Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.
 * Przeczytać artykuł Matthew Ström’a
 [Design Better Data Tables](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c).
 W swoich tabelkach stosować się do „3½ simple rules” z tego artykułu.
-* Przeczytać rozdział [Websites. Abandon five obsolete habits.](http://practicaltypography.com/websites.html)
-  z książki [Butterick’s Practical Typography](http://practicaltypography.com);
-  zob. [Google Fonts](https://fonts.google.com/?subset=latin-ext).
+* Przeczytać rozdział [Websites. Abandon five obsolete habits](http://practicaltypography.com/websites.html)
+  z książki M. Butterick’a [Practical Typography](http://practicaltypography.com);
+  zob. też [Google Fonts](https://fonts.google.com/?subset=latin-ext).
 * Zapoznać się z elementami, atrybutem i formatem:
   - [figure](http://caniuse.com/#search=figure)
   - [picture](http://caniuse.com/#search=picture)
