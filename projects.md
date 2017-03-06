@@ -12,7 +12,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 <!-- (\d+),(.+),(.+),\d+  //  $1. $2, $3 -->
 
-1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html)
+1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html), [GeoJSON](https://toyorg.github.io/TI/geojson.html)
 2. Bilikiewicz, Semen
 3. [Dzięgielewski, Piotr](https://github.com/dexiefy/TiZad1). [Mapa](https://dexiefy.github.io/TiZad1/)
 4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/)
@@ -48,3 +48,6 @@ Pull request według schematu:
   - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
   - [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
   - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
+1. [M&M'S](https://github.com/toyorg)
+  - [17 - Sort Without Articles](https://github.com/toyorg/SortWithoutArticles)
+  - [24 - Sticky Nav](https://github.com/toyorg/StickyNav)
