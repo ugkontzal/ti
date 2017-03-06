@@ -12,6 +12,21 @@ na przykład na jednym z [services with great free tiers for developers on a bud
 
 ### Zaliczenie
 
+Zapoznać się z notacjami Markdown:
+
+* [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/),
+  [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/) i
+  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+i AsciiDoc:
+
+* [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
+  toolchain for converting AsciiDoc to HTML5, DocBook & more.
+
+W repozytoriach z rozwiązaniami zadań, w pliku _README.md_ (Markdown)
+lub _README.adoc_ (AsciiDoctor) krótko opisać rozwiązanie każdego zadania.
+
+
 1\. [deadline 05.03.2017]
 
 * Utworzyć repozytorium na rozwiązania zadań. Link do repozytorium oraz
@@ -44,16 +59,6 @@ Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.
 
 Responsywne tabele.
 
-Zapoznać się z notacją Markdown:
-
-* [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/),
-  [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/) i
-  [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-i/lub AsciiDoc:
-
-* [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
-  toolchain for converting AsciiDoc to HTML5, DocBook & more.
 
 <!--
 Przeczytać [AsciiDoc New tables]( http://www.methods.co.nz/asciidoc/newtables.html).
