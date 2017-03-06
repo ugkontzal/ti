@@ -58,7 +58,7 @@ kilka geojsonów i przetestować je na tej stronie:
 [Simply edit GeoJSON map data](http://geojson.io).
 
 Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.com/).
-W kodzie mapki użyć tych [Geometry Objects](http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ i _Polygon_.
+W kodzie mapki użyć następujących [Geometry Objects](http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ i _Polygon_.
 
 
 3\. [deadline 09.04.2017]
