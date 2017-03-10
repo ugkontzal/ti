@@ -51,3 +51,6 @@ Pull request według schematu:
 1. [M&M'S](https://github.com/toyorg)
   - [17 - Sort Without Articles](https://github.com/toyorg/SortWithoutArticles)
   - [24 - Sticky Nav](https://github.com/toyorg/StickyNav)
+1. [MASA](https://github.com/marenty)
+  - [3 - CSS Variables](https://github.com/marenty/03-CSS-Variables)
+  - [27 - Click-and-Drag](https://github.com/marenty/27-Click-and-Drag)
