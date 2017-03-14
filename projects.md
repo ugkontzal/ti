@@ -44,7 +44,7 @@ Pull request według schematu:
 1. [Zeszpołu](https://github.com/ksazon)
   - [20 - Speech Detection](https://github.com/ksazon/speechRecognition)
   - [11 - Custom Video Player](https://github.com/ksazon/videoPlayer)
-1. [Wojsamjan Dexiefy](https://github.com/wojsamjan)
+1. [Mr. Bean](https://github.com/wojsamjan?tab=repositories)
   - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
   - [5 - Flex Panels Image Gallery](https://github.com/wojsamjan/flexPanelsImageGallery)
   - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
