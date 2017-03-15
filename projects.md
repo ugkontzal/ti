@@ -17,7 +17,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 3. [Dzięgielewski, Piotr](https://github.com/dexiefy/TiZad1). [Mapa](https://dexiefy.github.io/TiZad1/)
 4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/)
 5. Gorzkowski, Michał 26.02
-6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html)
+6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html), [MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html)
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/docs/)
 7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Mapka](https://mlabuda2.github.io/pierwszastrona/)
 8. Lejk, Krzysztof 26.02
