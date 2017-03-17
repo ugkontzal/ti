@@ -131,6 +131,10 @@ jeden z frameworków wymienionych poniżej:
 
 ### Egzamin (projekty zespołowe)
 
+Zrealizować kilka projektów ze strony
+[30 Day Vanilla JS Coding Challenge](https://javascript30.com);
+[repo z _starter files_](https://github.com/wesbos/JavaScript30).
+
 Podstawy język JavaScript:
 
 - Marijn Haverbeke.
@@ -139,9 +143,7 @@ Podstawy język JavaScript:
   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS);
   [polskie tłumaczenia](http://helion.pl/search?szukaj=Simpson)
 
-Zrealizować kilka projektów ze strony
-[30 Day Vanilla JS Coding Challenge](https://javascript30.com);
-[repo z _starter files_](https://github.com/wesbos/JavaScript30).
+----
 
 * [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer).
 
