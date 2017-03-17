@@ -63,8 +63,8 @@ W kodzie mapki użyć następujących [Geometry Objects](http://geojson.org/geoj
 
 3\. [deadline 22.04.2017]
 
-Responsywne tabele ([Responsive Tables](https://codepen.io/collection/AdGVYP/)
-i responsywne obrazki ([Responsive Images Community Group](https://responsiveimages.org).
+Responsywne tabele ([Responsive Tables](https://codepen.io/collection/AdGVYP/))
+i responsywne obrazki ([Responsive Images Community Group](https://responsiveimages.org)).
 
 1. Przygotować stronę z kilkoma tabelkami.
    Następnie dodać responsywność do tabelek.
