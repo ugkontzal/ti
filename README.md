@@ -61,10 +61,10 @@ Utworzyć stronę z mapką korzystającą biblioteki [Leaflet](http://leafletjs.
 W kodzie mapki użyć następujących [Geometry Objects](http://geojson.org/geojson-spec.html#geometry-objects): _Point_, _LineString_ i _Polygon_.
 
 
-3\. [deadline 09.04.2017]
+3\. [deadline 22.04.2017]
 
 Responsywne tabele ([Responsive Tables](https://codepen.io/collection/AdGVYP/)
-i responywne obrazki ([Responsive Images Community Group](https://responsiveimages.org).
+i responsywne obrazki ([Responsive Images Community Group](https://responsiveimages.org).
 
 1. Przygotować stronę z kilkoma tabelkami.
    Następnie dodać responsywność do tabelek.
@@ -94,7 +94,7 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
   może ułatwić przygotowanie prototypu strony z responsywnymi obrazkami
 
 
-4\. [deadline 22.04.2017]
+4\. [deadline 06.05.2017]
 
 Przygotować stronę ze wzorami matematycznymi.
 Matematykę na stronach wpisać w notacji
