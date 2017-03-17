@@ -66,9 +66,11 @@ W kodzie mapki użyć następujących [Geometry Objects](http://geojson.org/geoj
 Responsywne tabele ([Responsive Tables](https://codepen.io/collection/AdGVYP/)
 i responywne obrazki ([Responsive Images Community Group](https://responsiveimages.org).
 
-1. Przygotować stronę z kilkoma różnymi i interesującymi tabelkami.
+1. Przygotować stronę z kilkoma tabelkami.
    Następnie dodać responsywność do tabelek.
-2. Przygotować stronę z kilkoma różnymi i interesującymi responsywnymi obrazkami.
+2. Przygotować stronę z kilkoma obrazkami następnie dodać
+   responsywność do obrazków. Jak responywność wpływa na czas ładowania
+   strony?
 
 Strona powinna korzystać z lokalnych webfont. Na stronach należy użyć
 wszystkich wymienionych poniżej elementów i atrybutów.
@@ -140,6 +142,8 @@ Podstawy język JavaScript:
 Zrealizować kilka projektów ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com);
 [repo z _starter files_](https://github.com/wesbos/JavaScript30).
+
+* [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer).
 
 <!--
 
