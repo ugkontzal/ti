@@ -72,7 +72,7 @@ i responsywne obrazki ([Responsive Images Community Group](https://responsiveima
    responsywność do obrazków. Jak responywność wpływa na czas ładowania
    strony?
 
-Strona powinna korzystać z lokalnych webfont. Na stronach należy użyć
+Strona powinna korzystać z lokalnych webfont. Na stronie z tabelkami należy użyć
 wszystkich wymienionych poniżej elementów i atrybutów.
 
 W HTML tabelę budujemy z następujących elementów: *table*, *tr*, *td*,
