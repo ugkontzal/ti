@@ -21,7 +21,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/docs/)
 7. [Labuda, Mateusz](https://github.com/mlabuda2/pierwszastrona). [Mapka](https://mlabuda2.github.io/pierwszastrona/), [GeoJSON](https://mlabuda2.github.io/leaflet/geojson.html)
 8. Lejk, Krzysztof 26.02
-9. Lepieszkiewicz, Bartosz(https://github.com/lepsztyk/my_gulp_101). 
+9. [Lepieszkiewicz Bartosz](https://github.com/lepsztyk/my_gulp_101). [Mapa](https://lepsztyk.github.io/my_gulp/). 
 9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html)
 9. Madej, Martin 05.03
 10. [Nurzyński, Sebastian](https://github.com/ugkontzal/ugkontzal.github.io). [Mapa](https://ugkontzal.github.io/)
