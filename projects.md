@@ -13,7 +13,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 <!-- (\d+),(.+),(.+),\d+  //  $1. $2, $3 -->
 
 1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html), [GeoJSON](https://toyorg.github.io/TI/geojson.html), [MathJax](https://toyorg.github.io/TI/wzory.html)
-2. Bilikiewicz, Semen
+2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html)
 3. [Dzięgielewski, Piotr](https://github.com/dexiefy/TiZad1). [Mapa](https://dexiefy.github.io/TiZad1/)
 4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/)
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro).26.02 [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html).
