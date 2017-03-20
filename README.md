@@ -72,12 +72,18 @@ i responsywne obrazki ([Responsive Images Community Group](https://responsiveima
    responsywność do obrazków. Jak responywność wpływa na czas ładowania
    strony?
 
-Strona powinna korzystać z lokalnych webfont. Na stronie z tabelkami należy użyć
-wszystkich wymienionych poniżej elementów i atrybutów.
+Zamiast tables można użyć CSS Grid Layout ([A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/))
+lub CSS Flexible Box Layout ([A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/),
+[Flexbox Froggy](http://flexboxfroggy.com/)).
 
-W HTML tabelę budujemy z następujących elementów: *table*, *tr*, *td*,
-*caption*, *thead*, *tbody*, *tfoot*, *colgroup*, *col* (9 znaczników)
-oraz z dwóch atrybutów *colspan* i *rowspan* (2 atrybuty).
+Strona powinna korzystać z lokalnych webfont.
+
+Jeśli użyto elementu _table_ to należy użyć wszystkie wymienionych
+poniżej elementy i atrybuty.
+
+* W HTML tabelę budujemy z następujących elementów: *table*, *tr*, *td*,
+  *caption*, *thead*, *tbody*, *tfoot*, *colgroup*, *col* (9 znaczników)
+  oraz z dwóch atrybutów *colspan* i *rowspan* (2 atrybuty).
 
 * Przeczytać artykuł Matthew Ström’a
 [Design Better Data Tables](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c).
