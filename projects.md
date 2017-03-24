@@ -14,7 +14,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html), [GeoJSON](https://toyorg.github.io/TI/geojson.html), [MathJax](https://toyorg.github.io/TI/wzory.html)
 2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html)
-3. [Dzięgielewski, Piotr](https://github.com/dexiefy/TiZad1). [Mapa](https://dexiefy.github.io/TiZad1/)
+3. [Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe). [Mapa](https://dexiefy.github.io/Techniki-Internetowe/cern.html), [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html)
 4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/), , [GeoJSON](http://swiatlamiasta.github.io/studia/leaflet.html).
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro).26.02 [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html).
 6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html), [MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html)
