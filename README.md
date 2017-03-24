@@ -101,7 +101,8 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
 
 ----
 
-> [Presentations needs] … words, sentences & clarity, honesty
+> [presentations/projects/solutions needs] <br>
+> … words, sentences & clarity, honesty
 >
 > [Joseph Blitzstein](https://youtu.be/dzFf3r1yph8) na Think Big 4.
 
