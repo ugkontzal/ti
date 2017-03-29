@@ -58,3 +58,8 @@ Pull request według schematu:
 1. [Team Fred](https://github.com/mrhiyoko?tab=repositories)
   - [7 Array Cardio Day 2](https://github.com/mrhiyoko/Array-Cardio-day-2)
   - [29 Countdown Clock](https://github.com/mrhiyoko/Countdown-Clock)
+6. [La Bamba](https://github.com/mlabuda2)
+  - [26 - Stripe Follow Along Dropdown](https://github.com/mlabuda2/StripeFollowAlongDropdown)
+  - [30 - Whack A Mole Game](https://github.com/mlabuda2/WhackAMoleGame)
+  - [14 - Object and Arrays - Reference VS Copy](https://github.com/mlabuda2/ObjectandArraysReferenceVSCopy)
+  - [21 - Geolocation based Speedometer and Compass](https://github.com/mlabuda2/GeolocationbasedSpeedometerandCompass)
