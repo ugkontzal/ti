@@ -108,9 +108,11 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
 
 4\. [deadline 06.05.2017]
 
-Przygotować stronę ze wzorami matematycznymi.
+1. Przygotować stronę ze wzorami matematycznymi.
 Matematykę na stronach wpisać w notacji
 [MathJax](http://docs.mathjax.org/en/latest/index.html).
+2. Użyć modułu [CSS Grid Layout](https://www.w3.org/TR/css3-grid-layout/);
+zob. też [Grid Garden](http://cssgridgarden.com/).
 
 Przykładowe repozytorium z GitHub Pages + MathJax –
 [RedQueen: An Online Algorithm for Smart Broadcasting in Social Networks](http://learning.mpi-sws.org/redqueen/).
