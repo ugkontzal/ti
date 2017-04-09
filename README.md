@@ -95,7 +95,7 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
   - [figure](http://caniuse.com/#search=figure), [picture](http://caniuse.com/#search=picture)
   - [srcset](http://caniuse.com/#search=srcset)
   - [webfont](http://caniuse.com/#search=webfont)
-* [<picture> Element Sample](https://googlechrome.github.io/samples/picture-element/))
+* [<picture> Element Sample](https://googlechrome.github.io/samples/picture-element/)
 * [:japanese_ogre: – dummy image generator](http://satyr.io) –
   może ułatwić przygotowanie prototypu strony z responsywnymi obrazkami
 
