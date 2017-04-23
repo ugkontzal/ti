@@ -158,6 +158,7 @@ Podstawy język JavaScript:
 - Kyle Simpson.
   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS);
   [polskie tłumaczenia](http://helion.pl/search?szukaj=Simpson)
+- [ES6 Overview in 350 Bullet PointsES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6/blob/master/readme.markdown)
 
 ----
 
